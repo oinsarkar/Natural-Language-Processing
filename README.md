@@ -207,8 +207,8 @@ python src/visualize_topics.py
 |--------|-------|
 | Total Documents Analyzed | 200K+ |
 | Number of Topics Extracted | 20 |
-| Average Topic Coherence Score | [0.XX] |
-| Cross-platform Topic Similarity | [XX%] |
+| Average Topic Coherence Score | [0.3860] |
+| Cross-platform Topic Similarity | [0.1864] |
 
 **Top Topics Identified:**
 1. Politics & Government
